@@ -5,5 +5,5 @@ python-dotenv
 pdfplumber
 fitz
 flask
-git+https://github.com/python/importlib_metadata@main#egg=importlib_metadata
+importlib_metadata==4.6
 
