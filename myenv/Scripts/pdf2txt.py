@@ -1,4 +1,4 @@
-#!C:\Users\bbrahmasaini\OneDrive - DXC Production\PROJECTS\assert creation\NER\myenv\Scripts\python.exe
+#!C:\Users\bbrahmasaini\OneDrive - DXC Production\PROJECTS\assert creation\NER_skm\NER\myenv\Scripts\python.exe
 """A command line tool for extracting text and images from PDF and
 output it to plain text, html, xml or tags."""
 import argparse

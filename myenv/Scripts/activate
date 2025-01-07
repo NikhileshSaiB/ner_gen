@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\bbrahmasaini\OneDrive - DXC Production\PROJECTS\assert creation\NER\myenv"
+VIRTUAL_ENV="C:\Users\bbrahmasaini\OneDrive - DXC Production\PROJECTS\assert creation\NER_skm\NER\myenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

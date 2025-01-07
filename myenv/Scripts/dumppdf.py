@@ -1,4 +1,4 @@
-#!C:\Users\bbrahmasaini\OneDrive - DXC Production\PROJECTS\assert creation\NER\myenv\Scripts\python.exe
+#!C:\Users\bbrahmasaini\OneDrive - DXC Production\PROJECTS\assert creation\NER_skm\NER\myenv\Scripts\python.exe
 """Extract pdf structure in XML format"""
 import logging
 import os.path

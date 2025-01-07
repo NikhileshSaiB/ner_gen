@@ -3,6 +3,4 @@ pandas
 openai
 python-dotenv
 pdfplumber
-fitz
-flask
-# importlib_metadata
+Flask
