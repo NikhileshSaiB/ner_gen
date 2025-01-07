@@ -1,6 +1,10 @@
-azure.storage.blob
 pandas
 openai
 python-dotenv
 pdfplumber
 flask
+azure-storage-blob
+azure-identity
+azure-mgmt-compute 
+azure-mgmt-storage 
+azure-mgmt-resource
