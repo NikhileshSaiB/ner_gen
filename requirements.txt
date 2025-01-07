@@ -3,4 +3,4 @@ pandas
 openai
 python-dotenv
 pdfplumber
-Flask
+flask
